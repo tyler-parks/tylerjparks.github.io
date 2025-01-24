@@ -61,13 +61,6 @@ from sklearn.cluster import SpectralClustering
 from pyodide.http import open_url
 from pyscript import Element
 
-# Install and Import pymongo
-#!pip install pymongo
-
-#from pymongo.mongo_client import MongoClient
-#from pymongo.server_api import ServerApi
-
-
 ###                      ###
 ###                      ###
 ### VARIABLE DEFINITIONS ###
